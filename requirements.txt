@@ -1,0 +1,5 @@
+# pandas
+# prompt_toolkit
+# regex
+# PyInquirer
+selenium
