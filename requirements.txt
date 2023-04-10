@@ -3,3 +3,4 @@
 # regex
 # PyInquirer
 selenium
+webdriver-manager
